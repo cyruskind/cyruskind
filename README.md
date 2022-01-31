@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cyruskind
 - 👀 I’m interested in blockchain
-- 🌱 I’m currently learning RUST
+- 🌱 I’m currently sweeping NFT floors
 
 
 <!---
